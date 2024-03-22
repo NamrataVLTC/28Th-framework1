@@ -1,0 +1,93 @@
+2024-03-14 15:53:09,942 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 15:53:10,074 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 15:53:28,594 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 15:53:28,726 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 15:54:12,598 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 15:54:12,727 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 15:55:09,980 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 15:55:10,115 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 15:55:11,457 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 15:55:12,932 - 28Oct_Auto_Framework -INFO - Click on the Register button
+2024-03-14 15:55:12,979 - 28Oct_Auto_Framework -INFO - Click on the Gender
+2024-03-14 15:55:13,029 - 28Oct_Auto_Framework -INFO - Enter First Name
+2024-03-14 15:55:13,064 - 28Oct_Auto_Framework -INFO - Enter Last Name
+2024-03-14 15:55:13,143 - 28Oct_Auto_Framework -INFO - Set the Password
+2024-03-14 15:55:13,178 - 28Oct_Auto_Framework -INFO - Conf the Password
+2024-03-14 15:55:13,898 - 28Oct_Auto_Framework -INFO - Click on Register Button
+2024-03-14 15:55:13,926 - 28Oct_Auto_Framework -INFO - Verify Register Message
+2024-03-14 15:55:16,096 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 15:55:37,674 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 15:55:37,809 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 15:55:39,001 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 15:55:39,447 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 15:55:39,500 - 28Oct_Auto_Framework -INFO - Enter the User email
+2024-03-14 15:55:39,542 - 28Oct_Auto_Framework -INFO - Enter the User password
+2024-03-14 15:55:39,925 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 15:55:42,098 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 15:59:26,059 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 15:59:26,181 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 15:59:26,827 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 15:59:27,312 - 28Oct_Auto_Framework -INFO - Click on the Register button
+2024-03-14 15:59:27,350 - 28Oct_Auto_Framework -INFO - Click on the Gender
+2024-03-14 15:59:27,396 - 28Oct_Auto_Framework -INFO - Enter First Name
+2024-03-14 15:59:27,432 - 28Oct_Auto_Framework -INFO - Enter Last Name
+2024-03-14 15:59:27,511 - 28Oct_Auto_Framework -INFO - Set the Password
+2024-03-14 15:59:27,546 - 28Oct_Auto_Framework -INFO - Conf the Password
+2024-03-14 15:59:27,578 - 28Oct_Auto_Framework -INFO - Click on Register Button
+2024-03-14 15:59:44,797 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 16:01:03,307 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 16:01:03,442 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 16:01:04,665 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 16:01:05,159 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:01:05,210 - 28Oct_Auto_Framework -INFO - Enter the User email
+2024-03-14 16:01:05,264 - 28Oct_Auto_Framework -INFO - Enter the User password
+2024-03-14 16:01:06,040 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:01:06,050 - 28Oct_Auto_Framework -INFO - login test case pass
+2024-03-14 16:01:08,216 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 16:04:13,748 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 16:04:13,881 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 16:04:15,138 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 16:04:15,548 - 28Oct_Auto_Framework -INFO - Click on the Register button
+2024-03-14 16:04:15,593 - 28Oct_Auto_Framework -INFO - Click on the Gender
+2024-03-14 16:04:15,642 - 28Oct_Auto_Framework -INFO - Enter First Name
+2024-03-14 16:04:15,680 - 28Oct_Auto_Framework -INFO - Enter Last Name
+2024-03-14 16:04:15,760 - 28Oct_Auto_Framework -INFO - Set the Password
+2024-03-14 16:04:15,797 - 28Oct_Auto_Framework -INFO - Conf the Password
+2024-03-14 16:04:15,829 - 28Oct_Auto_Framework -INFO - Click on Register Button
+2024-03-14 16:04:33,054 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 16:04:42,321 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 16:04:42,451 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 16:04:43,877 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 16:04:44,372 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:04:44,424 - 28Oct_Auto_Framework -INFO - Enter the User email
+2024-03-14 16:04:44,463 - 28Oct_Auto_Framework -INFO - Enter the User password
+2024-03-14 16:04:45,394 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:04:47,575 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 16:05:03,549 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 16:05:03,684 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 16:05:04,971 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 16:05:05,581 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:05:05,628 - 28Oct_Auto_Framework -INFO - Enter the User email
+2024-03-14 16:05:05,670 - 28Oct_Auto_Framework -INFO - Enter the User password
+2024-03-14 16:05:06,620 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:05:08,789 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 16:10:01,596 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 16:10:01,729 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 16:10:03,985 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 16:10:04,720 - 28Oct_Auto_Framework -INFO - Click on the Register button
+2024-03-14 16:10:04,755 - 28Oct_Auto_Framework -INFO - Click on the Gender
+2024-03-14 16:10:04,801 - 28Oct_Auto_Framework -INFO - Enter First Name
+2024-03-14 16:10:04,839 - 28Oct_Auto_Framework -INFO - Enter Last Name
+2024-03-14 16:10:04,917 - 28Oct_Auto_Framework -INFO - Set the Password
+2024-03-14 16:10:04,954 - 28Oct_Auto_Framework -INFO - Conf the Password
+2024-03-14 16:10:05,669 - 28Oct_Auto_Framework -INFO - Click on Register Button
+2024-03-14 16:10:05,703 - 28Oct_Auto_Framework -INFO - Verify Register Message
+2024-03-14 16:10:08,776 - 28Oct_Auto_Framework -INFO - Close the browser
+2024-03-14 16:10:16,388 - 28Oct_Auto_Framework -INFO - Open browser
+2024-03-14 16:10:16,522 - 28Oct_Auto_Framework -INFO - Maximize browser
+2024-03-14 16:10:17,747 - 28Oct_Auto_Framework -INFO - Open the application
+2024-03-14 16:10:18,175 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:10:18,226 - 28Oct_Auto_Framework -INFO - Enter the User email
+2024-03-14 16:10:18,268 - 28Oct_Auto_Framework -INFO - Enter the User password
+2024-03-14 16:10:18,637 - 28Oct_Auto_Framework -INFO - Click on the login button
+2024-03-14 16:10:20,826 - 28Oct_Auto_Framework -INFO - Close the browser
